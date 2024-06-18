@@ -88,10 +88,9 @@ public class Game {
      * Swaps the attacking and defending players.
      */
     private void swapPlayers() {
-        System.out.println("swapping players");
         Player temp = attackingPlayer;
         attackingPlayer = defendingPlayer;
         defendingPlayer = temp;
-        System.out.println(attackingPlayer.getName());
+
     }
 }
