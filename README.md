@@ -59,4 +59,5 @@ Prompt the player to enter their name.
 Create a new player with the specified name and a new game board.
 Ask the player to choose a ship placement strategy.
 The player selects from the provided options.
-Populate the player's game board with ships according to the chosen strategy.
+Populate the player's game board with ships according to the chosen strategy......
+
